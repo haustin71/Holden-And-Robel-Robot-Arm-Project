@@ -1,6 +1,6 @@
-# CPyProjectTemplate
-Put a description for your project here!
-This repo is a template VS code project for CircuitPython projects that automatically uploads your code to the board when you press F5. Requires F5Anything extension.
+# Color Sensing Robot Arm
+The project we came up with is creating a robot that uses a color sensor that detects the color of an item and sorts it into a bin or a box.
+
 ## Use
 ### Every new project:
 1. Make a GitHub account if you don't have one with your normal school credentials and sign into it.
