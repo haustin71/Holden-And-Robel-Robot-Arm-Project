@@ -4,7 +4,7 @@ The project we came up with is creating a robot that uses a color sensor that de
 * [Table of Contents](#TableOfContents)
 * [CAD](#CAD)
 * [Code](#Code)
-* [Robot Working Video](#Robot Working Video)
+* [Robot Working Video](#Robot_Working_Video)
 * [Reflection](#Reflection)
 
 # CAD
