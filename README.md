@@ -1,7 +1,13 @@
 # Color Sensing Robot Arm
 The project we came up with is creating a robot that uses a color sensor that detects the color of an item and sorts it into a bin or a box.
-
-## Use
+## Table of Contents
+* [Table of Contents](#TableOfContents)
+* [Code](#CAD)
+* [Reflection](#Code)
+* [Milestones](#Milestones)
+* [Reflection](#Reflection)
+* [Circuit Python Distance Sensor](#CircuitPython_Distance_Sensor)
+* [NextAssignmentGoesHere](#Nextassignment)
 ### Every new project:
 1. Make a GitHub account if you don't have one with your normal school credentials and sign into it.
 2. Click the big green Use This Template button at the top of this page.
