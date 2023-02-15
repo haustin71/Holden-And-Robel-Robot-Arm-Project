@@ -10,3 +10,11 @@ The project we came up with is creating a robot that uses a color sensor that de
 # CAD
 ## Description
 This is a section that will go over all the things that were being made in CAD. 
+# Code
+## Description
+This will be the coding aspect of our project. 
+# Milestones
+## Description
+Here is our milestone part of the project
+# Reflection
+
