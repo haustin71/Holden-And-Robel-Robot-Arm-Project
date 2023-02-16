@@ -11,7 +11,7 @@ The project we came up with is creating a robot that uses a color sensor that de
 ## Description
 This is a section that will go over all the things that were being made in CAD. 
 # Code
-1/3-1/14/23
+## 1/3-1/14/23
 Before winter break, we ordered the color sensor and it got here by the time we got back to school. 
 
 # Robot_Working_Video
