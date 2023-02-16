@@ -13,7 +13,7 @@ This is a section that will go over all the things that were being made in CAD.
 # Code
 ## 1/3-1/14/23
 Before winter break, we ordered the color sensor and it got here by the time we got back to school. 
-
+![Color Sensor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/color%20sensor.jpg?token=GHSAT0AAAAAAB6SJHIZF3I4RWPVUR2ITNDSY7OIOQQ)
 # Robot_Working_Video
 
 # Reflection
