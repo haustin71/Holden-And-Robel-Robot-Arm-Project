@@ -21,6 +21,10 @@ Our Planning Document can be found [Here](https://docs.google.com/document/d/1Ys
 ![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screenshot%20two.png?token=GHSAT0AAAAAACCF2COYXIOL6ZVNOD6F7RTIZCSTO6A)
 
 ![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screenshot%203.png?token=GHSAT0AAAAAACCF2COY3WWKIZXNGTJZ7DWGZCSTPCA)
+
+![Stepper Motor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screenshot%203.png?token=GHSAT0AAAAAACCF2COY3WWKIZXNGTJZ7DWGZCSTPCA)
+
+![Stepper Motor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screenshot%203.png?token=GHSAT0AAAAAACCF2COY3WWKIZXNGTJZ7DWGZCSTPCA)
 ## 1/3-1/14/23
 Before winter break, we ordered the color sensor and it got here by the time we got back to school. 
 ![Color Sensor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/color%20sensor.jpg?token=GHSAT0AAAAAACCF2COZ756RZI6U23XKD5AYZCSS7VA)
