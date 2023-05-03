@@ -1,5 +1,7 @@
 # Color Sensing Robot Arm
 The project we came up with is creating a robot that uses a TCS34725 color sensor that detects the color of an item and sorts it into a bin or a box. What we ended up creating was a SCARA Robot Arm that theoretically can pick up small objects and place them into a bin.
+
+Our PLanning Document cna be found [Here](https://docs.google.com/document/d/1YsVVAbZa9TZLL2w0f8QsOpPJxRNCpU_s1rzD12g6IWw/edit?usp=sharing)
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [CAD](#CAD)
@@ -19,9 +21,6 @@ Before winter break, we ordered the color sensor and it got here by the time we 
 During this time, we were working on trying to get the color sensor to work. It took a very long time for the code to be finished. It was pretty tough. 
 Here is an image of the finished color sensor code. 
 ![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screen%20shot%20one%20for%20finished%20color%20code.png?token=GHSAT0AAAAAACCF2COZWHY7LT5RXSGLI46UZCSTNBA)
-![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screen%20shot%20one%20for%20finished%20color%20code.png?token=GHSAT0AAAAAACCF2COZWHY7LT5RXSGLI46UZCSTNBA)
-![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screenshot%203.png?token=GHSAT0AAAAAACCF2COY3WWKIZXNGTJZ7DWGZCSTPCA)
-
 # Robot_Working_Video
 We don't have a video of the robot arm because we didn't get to build it.
 # Reflection
