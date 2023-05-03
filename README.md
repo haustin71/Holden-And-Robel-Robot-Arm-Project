@@ -14,7 +14,7 @@ The project we came up with is creating a robot that uses a TCS34725 color senso
 # Code
 ## 1/3-1/14/23
 Before winter break, we ordered the color sensor and it got here by the time we got back to school. 
-![Color Sensor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/color%20sensor.jpg?token=GHSAT0AAAAAAB6SJHIZF3I4RWPVUR2ITNDSY7OIOQQ)
+![Color Sensor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/color%20sensor.jpg?token=GHSAT0AAAAAACCF2COZ756RZI6U23XKD5AYZCSS7VA)
 # Robot_Working_Video
 We don't have a video of the robot arm because we didn't get to build it.
 # Reflection
