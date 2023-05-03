@@ -19,7 +19,9 @@ Before winter break, we ordered the color sensor and it got here by the time we 
 During this time, we were working on trying to get the color sensor to work. It took a very long time for the code to be finished. It was pretty tough. 
 Here is an image of the finished color sensor code. 
 ![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screen%20shot%20one%20for%20finished%20color%20code.png?token=GHSAT0AAAAAACCF2COZWHY7LT5RXSGLI46UZCSTNBA)
-![Color Sensor Code](![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screen%20shot%20one%20for%20finished%20color%20code.png?token=GHSAT0AAAAAACCF2COZWHY7LT5RXSGLI46UZCSTNBA)
+![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screen%20shot%20one%20for%20finished%20color%20code.png?token=GHSAT0AAAAAACCF2COZWHY7LT5RXSGLI46UZCSTNBA)
+![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screenshot%203.png?token=GHSAT0AAAAAACCF2COY3WWKIZXNGTJZ7DWGZCSTPCA)
+
 # Robot_Working_Video
 We don't have a video of the robot arm because we didn't get to build it.
 # Reflection
