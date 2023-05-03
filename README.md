@@ -14,13 +14,14 @@ Our Planning Document can be found [Here](https://docs.google.com/document/d/1Ys
 ![Robot Arm Image 2](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/Robot%20Arm%202.PNG?token=GHSAT0AAAAAACCFZ2BCIQSFZGHCVVZ44N3IZCSS6LQ)
 ![Robot Arm Image 3](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/Robot%20Arm%203.PNG?token=GHSAT0AAAAAACCFZ2BDW7SJIE3XXBQZDGVYZCSS7WA)
 # Code
+![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screen%20shot%20one%20for%20finished%20color%20code.png?token=GHSAT0AAAAAACCF2COZWHY7LT5RXSGLI46UZCSTNBA)
 ## 1/3-1/14/23
 Before winter break, we ordered the color sensor and it got here by the time we got back to school. 
 ![Color Sensor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/color%20sensor.jpg?token=GHSAT0AAAAAACCF2COZ756RZI6U23XKD5AYZCSS7VA)
 ## 1/3-1/20/23
 During this time, we were working on trying to get the color sensor to work. It took a very long time for the code to be finished. It was pretty tough. 
 Here is an image of the finished color sensor code. 
-![Color Sensor Code](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/screen%20shot%20one%20for%20finished%20color%20code.png?token=GHSAT0AAAAAACCF2COZWHY7LT5RXSGLI46UZCSTNBA)
+
 # Robot_Working_Video
 We don't have a video of the robot arm because we didn't get to build it.
 # Reflection
