@@ -9,6 +9,8 @@ Our Planning Document can be found [Here](https://docs.google.com/document/d/1Ys
 * [Robot Working Video](#Robot_Working_Video)
 * [Reflection](#Reflection)
 
+#Wiring Diagram
+
 # CAD
 ![Robot Arm Image 1](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/Robot%20Arm%201.PNG?token=GHSAT0AAAAAACCFZ2BDIO4OEUOGMVNC25HIZCSS53Q)
 ![Robot Arm Image 2](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/Robot%20Arm%202.PNG?token=GHSAT0AAAAAACCFZ2BCIQSFZGHCVVZ44N3IZCSS6LQ)
