@@ -8,7 +8,7 @@ The project we came up with is creating a robot that uses a TCS34725 color senso
 * [Reflection](#Reflection)
 
 # CAD
-
+![Robot Arm Image 1](Robot Arm 1.PNG)
 
 # Code
 ## 1/3-1/14/23
