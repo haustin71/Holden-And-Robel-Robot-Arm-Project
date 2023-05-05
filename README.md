@@ -8,8 +8,8 @@ Our Planning Document can be found [Here](https://docs.google.com/document/d/1Ys
 * [Code](#Code)
 * [Robot Working Video](#Robot_Working_Video)
 * [Reflection](#Reflection)
+*[Wiring Diagram](#Wiring Diagram
 
-#Wiring Diagram
 
 # CAD
 ![Robot Arm Image 1](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/Robot%20Arm%201.PNG?token=GHSAT0AAAAAACCFZ2BDIO4OEUOGMVNC25HIZCSS53Q)
@@ -25,6 +25,8 @@ Our Planning Document can be found [Here](https://docs.google.com/document/d/1Ys
 ![Stepper Motor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/stepper%20motor%20finished%20p1.png?token=GHSAT0AAAAAACCF2COYDP74WV7TENVBUM5AZCSUB2A)
 
 ![Stepper Motor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/stepper%20motor%20finished%20p2.png?token=GHSAT0AAAAAACCF2COYP3QLCV62UBUBSU7SZCSUCBQ)
+#Wiring Diagram
+
 ## 1/3-1/14/23
 Before winter break, we ordered the color sensor and it got here by the time we got back to school. 
 ![Color Sensor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/color%20sensor.jpg?token=GHSAT0AAAAAACCF2COZ756RZI6U23XKD5AYZCSS7VA)
