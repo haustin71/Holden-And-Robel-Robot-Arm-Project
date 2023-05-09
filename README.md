@@ -27,6 +27,7 @@ Our Planning Document can be found [Here](https://docs.google.com/document/d/1Ys
 ![Stepper Motor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/stepper%20motor%20finished%20p2.png?token=GHSAT0AAAAAACCF2COYP3QLCV62UBUBSU7SZCSUCBQ)
 
 # Wiring Diagram
+![Stepper Diagram](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/Stepper%20Motor%20Wiring%20Diagram.PNG?token=GHSAT0AAAAAACCFZ2BD2ZFTJVBRJV6FQLRQZC2LFMQ)
 ![Stepper Motor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/Robot%20Arm%201.PNG?token=GHSAT0AAAAAACCFZ2BDIO4OEUOGMVNC25HIZCSS53Q)
 ![Color Sensor](https://raw.githubusercontent.com/haustin71/Holden-And-Robel-Robot-Arm-Project/master/Robot%20Arm%201.PNG?token=GHSAT0AAAAAACCFZ2BDIO4OEUOGMVNC25HIZCSS53Q)
 ## 1/3-1/14/23
