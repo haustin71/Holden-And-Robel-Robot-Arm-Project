@@ -16,12 +16,13 @@ Our Planning Document can be found [Here](https://docs.google.com/document/d/1Ys
 ![Robot Arm Image 2](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/Robot%20Arm%202.PNG)
 ![Robot Arm Image 3](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/Robot%20Arm%203.PNG)
 # Code
+This is the code for the Color Sensor, we used arduino because it was easier to understand. 
 ![Color Sensor Code](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/screen%20shot%20one%20for%20finished%20color%20code.png)
 
 ![Color Sensor Code](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/screenshot%20two.png)
 
 ![Color Sensor Code](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/screenshot%203.png)
-
+This is the Stepper Motor code, we had to restore the history on VS code so thats why all of the code is highlighted green.
 ![Stepper Motor](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/stepper%20motor%20finished%20p1.png)
 
 ![Stepper Motor](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/stepper%20motor%20finished%20p2.png)
