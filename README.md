@@ -22,7 +22,9 @@ This is the code for the Color Sensor, we used arduino because it was easier to 
 ![Color Sensor Code](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/screenshot%20two.png)
 
 ![Color Sensor Code](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/screenshot%203.png)
+
 This is the Stepper Motor code, we had to restore the history on VS code so thats why all of the code is highlighted green.
+
 ![Stepper Motor](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/stepper%20motor%20finished%20p1.png)
 
 ![Stepper Motor](https://github.com/haustin71/Holden-And-Robel-Robot-Arm-Project/blob/ff78f1ae9f5a2ee204739f73325e2b9a9d7b3d94/stepper%20motor%20finished%20p2.png)
