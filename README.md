@@ -1,7 +1,7 @@
 # Color Sensing Robot Arm
 The project we came up with is creating a robot that uses a TCS34725 color sensor that detects the color of an item and sorts it into a bin or a box. What we ended up creating was a SCARA Robot Arm that theoretically can pick up small objects and place them into a bin.
 
-Our Planning Document can be found [Here](https://docs.google.com/document/d/1YsVVAbZa9TZLL2w0f8QsOpPJxRNCpU_s1rzD12g6IWw/edit?usp=sharing)
+Our Planning Document can be found [Here](https://docs.google.com/document/d/1QK2YdJM3XdLnb3cjx2dpNvLIxxwCefpbR2TfuuenNcA/edit?usp=sharing)
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [CAD](#CAD)
